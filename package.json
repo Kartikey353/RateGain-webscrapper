@@ -1,0 +1,16 @@
+{
+  "name": "rategain_webscrapper",
+  "version": "1.0.0",
+  "description": "Task for Rate gain coderanger hackathon webscrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kartikey/Arjun",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "selenium-webdriver": "^4.15.0"
+  }
+}
